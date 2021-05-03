@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'crashell'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_c7db8b61ba334e58882f256feb8c5d4f }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_55456aafb0f64039a84e85acb462bd94 }}
